@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Rosemberg Araujo, a programming student on my second year of information systems college.
+#### I'm Rosemberg Araujo, a programming student on my 5 semester of information systems college (I.T like).
 
  <div>
   <a href="https://github.com/RosembergAraujo">
