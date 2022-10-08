@@ -19,4 +19,6 @@
  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
 </div>
 
+<br><a href="mailto:rosembergv.filho@gmail.com">rosembergv.filho@gmail.com</a>
+
 
