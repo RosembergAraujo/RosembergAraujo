@@ -9,7 +9,7 @@ Olá, sou o Rosemberg Araujo <img src="https://raw.githubusercontent.com/Veidoid
   <img height="30" width="40" style="height: 1rem" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"/>
 </h4>
 <h4 align="center">
-  Conheço programação desde de 2015, quando ingressei no Instituto Federal da Bahia e desde de lá, sei que é o que eu quero fazer pro resto da minha vida é trabalhar com tech, sou apaixonado pelo processo de aprendizagem eficiente.
+  Conheço programação desde de 2015, quando ingressei no Instituto Federal da Bahia e desde de lá, sei que é o que eu quero fazer pro resto da minha vida, sou apaixonado pelo processo de aprendizagem eficiente.
 </h4>
 <h1></h1>
 <div style="display: inline_block" align="center">
