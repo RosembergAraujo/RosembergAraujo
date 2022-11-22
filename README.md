@@ -1,20 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center">
-Olá, sou o Rosemberg Araujo <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
+Hi, i'm Rosemberg Araujo <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
 </h1>
 
-<h4 align="center">
-  Tenho 22 anos de idade, e sou estudante do curso de Bracharelado em Sistemas de Informação, atualmente estagiando na
-  <img height="30" width="40" style="height: 1rem" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"/>
-</h4>
-<h4 align="center">
-  Conheço programação desde de 2015, quando ingressei no Instituto Federal da Bahia e desde de lá, sei que é o que eu quero fazer pro resto da minha vida, sou apaixonado pelo processo de aprendizagem eficiente.
-</h4>
+<div align="center" >
+🔭  I'm currently intern at IBM 🐝 as Software Engineer<br>🌱  I'm learning DevOps/Back end development, studying TDD with Jest<br>🤝🏾  I started my programming studies at IFBA (Instituto federal da Bahia) in 2015<br>👨🏽‍🎓  Since 2015, my life goal is to be every time a better learner <br>👨🏽‍💻  And become the best developer as i can.
+</div>
 <h1></h1>
 <div style="display: inline_block" align="center">
   <!-- <div align="center"> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosembergAraujo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RosembergAraujo&theme=monokai&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosembergAraujo&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  
 <!-- </div> -->
   <div style="display: inline_block">
     <img align="center" alt="linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
@@ -31,8 +29,7 @@ Olá, sou o Rosemberg Araujo <img src="https://raw.githubusercontent.com/Veidoid
 
 <h3 align="center">
 
-<a href="https://www.linkedin.com/in/bergaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:rosembergv.filho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</h3>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/vRWGAGx8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/berg1araujo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bergaraujo/) 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
