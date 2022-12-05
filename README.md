@@ -11,7 +11,6 @@ Hi, i'm Rosemberg Araujo <img src="https://raw.githubusercontent.com/Veidoido/Ve
 <div style="display: inline_block" align="center">
   <!-- <div align="center"> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RosembergAraujo&theme=monokai&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosembergAraujo&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
   
 <!-- </div> -->
   <div style="display: inline_block">
