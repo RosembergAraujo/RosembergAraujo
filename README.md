@@ -10,7 +10,7 @@ Hi, i'm Rosemberg Araujo <img src="https://raw.githubusercontent.com/Veidoido/Ve
 <h1></h1>
 <div style="display: inline_block" align="center">
   <!-- <div align="center"> -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RosembergAraujo&theme=monokai&hide_border=true"/>
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RosembergAraujo&theme=monokai&hide_border=true"/> -->
   
 <!-- </div> -->
   <div style="display: inline_block">
