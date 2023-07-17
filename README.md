@@ -5,7 +5,7 @@ Hi, i'm Rosemberg Araujo <img src="https://raw.githubusercontent.com/Veidoido/Ve
 </h1>
 
 <div align="center" >
-🔭  I'm currently at IBM 🐝 as Software Engineer<br>🌱  I'm learning DevOps/Backend development, actually studying Quarkus with Java 17<br>🤝🏾  I started my programming studies at IFBA (Instituto federal da Bahia) in 2015<br>👨🏽‍🎓  Since 2015, my life goal is to be increasingly a better learner <br>👨🏽‍💻  And become the best developer as i can.
+🔭  I'm currently at IBM 🐝 as Software Engineer<br>🌱  I'm learning DevOps/Backend development, actually studying Quarkus and Angular<br>🤝🏾  I started my programming studies at IFBA (Instituto federal da Bahia) in 2015<br>👨🏽‍🎓  Since 2015, my life goal is to be increasingly a better learner <br>👨🏽‍💻  And become the best developer as i can.
 </div>
 <h1></h1>
 <div style="display: inline_block" align="center">
