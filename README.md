@@ -29,7 +29,6 @@ Hi, i'm Rosemberg Araujo <img src="https://raw.githubusercontent.com/Veidoido/Ve
 <h3 align="center">
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/vRWGAGx8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/berg1araujo/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bergaraujo/) 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B233FF&height=120&section=footer"/>
